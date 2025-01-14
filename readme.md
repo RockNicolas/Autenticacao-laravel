@@ -27,7 +27,7 @@ Aqui estão algumas capturas de tela de como o sistema se parece:
 
 Tela da Home Principal
 
-![alt text](/img/image.png)
+![alt text](/img/imagSistem/principal.png)
 
 Tela de Login
 
