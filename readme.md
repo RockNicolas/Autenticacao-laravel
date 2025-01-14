@@ -27,23 +27,33 @@ Aqui estão algumas capturas de tela de como o sistema se parece:
 
 Tela da Home Principal
 
-![alt text](/img/imgSistem/principal.png)
+![alt text](public/img/imgSistem/principal.png)
 
 Tela de Login
 
-![alt text](/img/image-1.png)
+![alt text](public/img/imgSistem/login.png)
 
 Tela de Registro
 
-![alt text](/img/image-2.png)
+![alt text](public/img/imgSistem/cadastro.png)
+
+Tela de Logado
+
+![alt text](public/img/imgSistem/logado.png)
+
 
 Tela de Materiais
 
-![alt text](/img/image-3.png)
+![alt text](public/img/imgSistem/contas.png)
+
+Tela de Cadastrar Materiais
+
+![alt text](public/img/imgSistem/cadastrar.png)
+
 
 Tela de Editar Materiais
 
-![alt text](/img/image-4.png)
+![alt text](public/img/imgSistem/editar.png)
 
 Conclusão
 Este é um sistema simples, mas eficaz, para o gerenciamento de materiais. Ele pode ser facilmente expandido com mais funcionalidades, como autenticação via redes sociais, relatórios de uso de materiais, entre outras melhorias.
