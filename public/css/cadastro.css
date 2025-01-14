@@ -1,0 +1,29 @@
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.custom-logo {
+    height: 60px;     
+    margin-top: -20px; 
+}
+
+.navbar.navbar-default.navbar-static-top {
+background-color: #0056b3; 
+border-color: #004085;     
+}
+
+.navbar.navbar-default.navbar-static-top .navbar-nav>li>a {
+    color: white;
+}        
+
+.navbar.navbar-default.navbar-static-top .navbar-nav>li>a:hover {
+    color: rgb(87, 221, 255);
+    border-radius: 20px;
+    border: 2px solid rgb(87, 221, 255); 
+    padding: 13px; 
+    box-sizing: border-box; 
+} 

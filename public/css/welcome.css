@@ -1,0 +1,22 @@
+.custom-panel {
+    background-color: #007bff; 
+    color: white;
+    border-radius: 5px; 
+}
+
+.panel-body {
+    background-color:rgb(2, 58, 119);
+    color: white; 
+}
+
+.custom-img {
+    width: 600px;  
+    height: auto;  
+    margin-top: -10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5); 
+    border-radius: 15px; 
+}
+
+.container {
+    overflow: visible;
+}
