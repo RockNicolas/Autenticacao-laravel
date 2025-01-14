@@ -44,7 +44,7 @@ Tela de Logado
 
 Tela de Materiais
 
-![alt text](public/img/imgSistem/contas.png)
+![alt text](public/img/imgSistem/estoque.png)
 
 Tela de Cadastrar Materiais
 
@@ -55,5 +55,5 @@ Tela de Editar Materiais
 
 ![alt text](public/img/imgSistem/editar.png)
 
-Conclusão
+Conclusão</br>
 Este é um sistema simples, mas eficaz, para o gerenciamento de materiais. Ele pode ser facilmente expandido com mais funcionalidades, como autenticação via redes sociais, relatórios de uso de materiais, entre outras melhorias.

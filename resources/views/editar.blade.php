@@ -2,8 +2,8 @@
 @section('title', 'Listagem de Contas')
 
 @section('content')
-<h1>Editar Conta - {{$contas_pagar->id}}</h1>
-<form action="{{ action('ContasPagarController@update', $contas_pagar->id) }}" method="POST">
+<h1>Editar Conta - {{$contas_pagar->descricao}}</h1>
+<form action="{{ action('ContasPagarController@update', $contas_pagar->descricao) }}" method="POST">
     <input type="hidden" name="_token" value="{{ csrf_token() }}">
     <input type="hidden" name="update" value="update">
 

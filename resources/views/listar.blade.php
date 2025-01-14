@@ -10,7 +10,7 @@
 	}	
 </script>
 
-<h1>Lista de Contas Pagar</h1>
+<h1>Materias do Estoque</h1>
 
 @if(old('insert'))
 	<div class="alert alert-success">
