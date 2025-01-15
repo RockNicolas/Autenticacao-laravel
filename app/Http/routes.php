@@ -23,4 +23,3 @@ Route::post('/contas/update/{id}', "ContasPagarController@update");
 Route::get('/contas/apagar/{id}', "ContasPagarController@apagar");
 Route::auth();
 
-Route::get('/home', 'HomeController@index');

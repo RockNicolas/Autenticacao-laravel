@@ -1,12 +1,12 @@
-@extends('layouts.app')
+@extends('principal')
+@section('title', 'Login')
 
-<!-- Main Content -->
 @section('content')
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">Redefinir senha</div>
+                <div class="panel-heading" style="background-color: #0056b3; color: white;">Redefinir senha</div>
                 <div class="panel-body">
                     @if (session('status'))
                         <div class="alert alert-success">

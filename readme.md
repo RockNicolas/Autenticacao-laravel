@@ -41,6 +41,10 @@ Tela de Logado
 
 ![alt text](public/img/imgSistem/logado.png)
 
+Tela de Redefinir
+
+![alt text](public/img/imgSistem/redefinir.png)
+
 
 Tela de Materiais
 
